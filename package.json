@@ -1,0 +1,19 @@
+{
+  "name": "gdsub_automl_translation",
+  "version": "0.0.1",
+  "description": "use markdown parser to extract english and chinese pair from finished md files for training AutoML models in Google Cloud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automl",
+    "markdown",
+    "googlecloud"
+  ],
+  "author": "yuan",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^8.4.2"
+  }
+}
